@@ -10,5 +10,47 @@
         "password": "user@123",
         "role": "user"
       }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Book1",
+      "author": "author_name",
+      "category": "fiction",
+      "isVerified": "false",
+      "borrowedDays": "null"
+    },
+    {
+      "id": 2,
+      "title": "Book2",
+      "author": "author_name",
+      "category": "comedy",
+      "isVerified": "false",
+      "borrowedDays": "null"
+    },
+    {
+      "id": 3,
+      "title": "Book3",
+      "author": "author_name",
+      "category": "technology",
+      "isVerified": "false",
+      "borrowedDays": "null"
+    },
+    {
+      "id": 4,
+      "title": "Book4",
+      "author": "author_name",
+      "category": "fiction",
+      "isVerified": "false",
+      "borrowedDays": "null"
+    },
+    {
+      "id": 5,
+      "title": "Book5",
+      "author": "author_name",
+      "category": "technology",
+      "isVerified": "false",
+      "borrowedDays": "null"
+    }
   ]
 }
